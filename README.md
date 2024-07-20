@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mainactivitykt) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainactivitykt/?lipi=urn%3Ali%3Apage%3Aprofile_common_profile_index%3B82e2c71a-b35c-43a4-b157-f8c3eebfa4c7)  [![Hyperskill](https://img.shields.io/badge/Hyperskill-%232B2A33.svg?logo=hyperskill&logoColor=blue)](https://hyperskill.org/profile/224670375)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mainactivitykt&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mainactivitykt&theme=tokyonight&hide_border=false)<br/>
