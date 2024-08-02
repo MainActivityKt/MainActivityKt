@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I am a student of native Android app Development<br>🌱 I’m currently learning Kotlin, Jetpack Compose, Java, Android, and Figma.<br>💬 Ask me about online learning industry<br>⚡ Fun fact: I have been a lifetime remote student
 
+[![](https://visitcount.itsvg.in/api?id=mainactivitykt&icon=5&color=6)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainactivitykt/?lipi=urn%3Ali%3Apage%3Aprofile_common_profile_index%3B82e2c71a-b35c-43a4-b157-f8c3eebfa4c7)  [![Hyperskill](https://img.shields.io/badge/Hyperskill-%232B2A33.svg?logo=hyperskill&logoColor=blue)](https://hyperskill.org/profile/224670375)
