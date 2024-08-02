@@ -21,12 +21,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Advent of Code](https://img.shields.io/badge/Advent%20Of%20Code-FFFF66.svg?style=for-the-badge&logo=Advent-Of-Code&logoColor=black)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=mainActivityKt&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mainActivityKt&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mainActivityKt&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mainactivitykt&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
