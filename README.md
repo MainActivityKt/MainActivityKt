@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a student of native Android app Development<br>🌱 I’m currently learning Kotlin, Jetpack Compose, Java, Android, and Figma.<br>💬 Ask me about online learning industry<br>⚡ Fun fact: I have been a lifetime remote student <br>📷 Display pic: Foundation Paul Delvaux, Koksijde, Belgium / VEGAP – SABAM – 2015
+🔭 I am a student of native Android app Development<br>🌱 I’m currently learning Kotlin, Jetpack Compose, Java, Android, and Figma.<br>💬 Ask me about online learning industry<br>⚡ Fun fact: I have been a lifetime remote student <br>📷 Display pic: The Viaduct by Paul Delvaux, Koksijde, Belgium / VEGAP – SABAM – 2015
 
 [![](https://visitcount.itsvg.in/api?id=mainactivitykt&icon=5&color=6)](https://visitcount.itsvg.in)
 
