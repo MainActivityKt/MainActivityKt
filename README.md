@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a student of native Android app Development<br>🌱 I’m currently learning Kotlin, Jetpack Compose, Java, Android, and Figma.<br>💬 Ask me about online learning industry<br>⚡ Fun fact: I have been a lifetime remote student <br>📷 Display pic: Le vicinal by Paul Delvaux, 1959
+🔭 I am a native Android app Developer<br>🌱 I’m currently learning Views, Java, Flutter, and advanced Jetpack Compose.<br>💬 Ask me about online learning industry<br>⚡ I am passionate about learning. <br>📷 Display pic: Le vicinal by Paul Delvaux, 1959
 
 [![](https://visitcount.itsvg.in/api?id=mainactivitykt&icon=5&color=6)](https://visitcount.itsvg.in)
 
